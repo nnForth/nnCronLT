@@ -1,0 +1,11 @@
+SET MY_VAR="Hello my dear friends!!!"
+
+#
+#
+#*/2 * * * * G:\winnt\system32\cmd.exe /c test.cmd
+
+#* * * * * readme.txt
+
+#* * * * * !RUN-CALC
+
+* * * * * copy cron.tab cron11.tab

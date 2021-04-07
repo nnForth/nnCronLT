@@ -1,0 +1,6 @@
+[Config]
+ImagePath=Image
+ExeName=nncronlt
+Password=
+UpdateVersionInfo=1
+Compression=ZIP

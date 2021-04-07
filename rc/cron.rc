@@ -1,0 +1,56 @@
+
+#include <winver.h>
+
+#ifdef _DEBUG
+icon16 ICON "rc/nncron16x16-16.ico"
+icon32 ICON "rc/nncron32x32-16.ico"
+#else
+icon16 ICON "rc/nncron16x16-16.ico"
+icon32 ICON "rc/nncron32x32-16.ico"
+#endif
+
+VS_VERSION_INFO     VERSIONINFO
+#ifdef _DEBUG
+  FILEVERSION       1,18,121,0
+  PRODUCTVERSION    1,18,121,0
+#else
+  FILEVERSION       1,18,121,0
+  PRODUCTVERSION    1,18,121,0
+#endif
+FILEFLAGSMASK       VS_FFI_FILEFLAGSMASK
+#ifdef _DEBUG
+  FILEFLAGS         VS_FF_PRIVATEBUILD | VS_FF_PRERELEASE
+#else
+  FILEFLAGS         0
+#endif
+FILEOS              VOS__WINDOWS32
+FILETYPE            VFT_APP
+FILESUBTYPE         VFT2_UNKNOWN
+BEGIN
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0409, 1252   ; US English, Windoze charset
+  END
+
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"                    ; US English, Windoze charset data
+    BEGIN
+#ifdef _DEBUG
+      VALUE "FileDescription", "nnCron LITE debug - system command scheduler\0"
+#else
+      VALUE "FileDescription", "nnCron LITE - system command scheduler\0"
+#endif
+      VALUE "ProductName", "nnCron LITE\0"
+      VALUE "CompanyName", "nnSoft\0"
+      VALUE "LegalCopyright", "Copyright \251 1999 - 2008 nnSoft.\0"
+#ifdef _DEBUG
+      VALUE "FileVersion", "1.18.121 release debug\0"
+      VALUE "ProductVersion", "1.18.121 release debug\0"
+#else
+      VALUE "FileVersion", "1.18.121 release\0"
+      VALUE "ProductVersion", "1.18.121 release\0"
+#endif
+    END
+  END
+END

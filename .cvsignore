@@ -1,0 +1,6 @@
+backup
+log
+txt
+*.exe
+*.res
+import.bat

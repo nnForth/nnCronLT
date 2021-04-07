@@ -1,0 +1,13 @@
+\ --- начало файла 'test.spf' ---
+WINAPI: FindWindowA USER32.DLL
+: CALC-STARTED? ( -- ? )
+    Z" Калькулятор" 0 FindWindowA 0<>
+;
+: RUN-CALC
+    CALC-STARTED? 0= 
+    IF 
+        ShowNormal
+        START-APP: calc.exe
+    THEN
+;
+\ --- конец файла 'test.spf' ---

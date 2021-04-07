@@ -1,0 +1,54 @@
+                   nnCron LITE history
+                   ~~~~~~~~~~~~~~~~~~~
+      + new feature
+      * improvement/modification or bug fix
+      - deleted feature
+
+
+    + Dutch readme is available (thanks to the translator!)
+
+1.17 (09.Jun.05)
+    * cron doesn't load profile if AsLoggedUser ON and Windows >= XP.
+
+1.16 (16.Oct.03)
+    * Problem of quotes in command line for "run missed" tasks is fixed.
+    + Czech readme is available (thanks to the translator!)
+
+1.15 (02.Oct.03)
+    + Run missed task capability and DefaultRunMissedTime: ini-parameter.
+    * NoLog (~) bug fixed
+    * Some installer improvements
+    + Polish readme is available
+
+1.14 (31.Aug.03)
+    * Installer silent mode bug fixed.
+
+1.13 (24.Jul.03)
+    * rare crash bug fixed.
+    + Spanish readme is available
+    + new nnCron LITE installer
+
+1.12 (14.Jul.03)
+    * cron did not write to the log on forth scripts execution
+    * Bug of usage START-APP with APP-Dir fixed.
+    * documentation and misc txt-files were moved to 'doc' folder
+    + Finnish, French, German, Portuguese, Brazilian Portuguese and Ukrainian
+      readme are available (thanks to all the translators!)
+    + Command prefix ~ for logging suppression 
+1.11 (03.03.03)
+    + English help
+1.09 (20.Dec.02)
+    * uninstall bug fixed
+1.08 (12.Dec.02)
+    * copying cron.tab on install bug fixed
+1.07 (07.Dec.02)
+    * Installation is changed
+1.06 (21.Aug.02)
+    * AsLoggedOn option bug fixed (error on logoff state)
+    + new time specification (? - start time)
+1.05 (20.Jun.02)
+    * Documents opening improved.
+1.04 (16.Jun.02)
+    + New cron.ini file option: AsLoggedUser (it is 'ON' by default)
+1.01 (12.Nov.01)
+    * nnCron LITE was born.

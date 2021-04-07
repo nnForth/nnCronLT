@@ -1,0 +1,6 @@
+#CRONTAB FILE 
+# Classic crontab format:
+# Minutes Hours Days Months WeekDays Command
+
+#*/15 8-16 * * 1-5 checkmail.exe
+

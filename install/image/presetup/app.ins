@@ -1,0 +1,30 @@
+[CopyFiles]
+CopyAppFiles=%InstallPath%
+
+[CopyAppFiles]
+*.*=*.*
+
+[AddReg]
+AddAppReg1=HKLM\Software\nnSoft\nnCron LITE
+ 
+[AddAppReg1]
+path=%InstallPath%
+
+[Shortcuts]
+AddIcoAPP=%AppFolder%
+
+[AddIcoAPP]
+Start service=%InstallPath%\startcron.bat,,%InstallPath%,,,,3
+Stop service=%InstallPath%\stopcron.bat,,%InstallPath%,,,,3
+Readme=%InstallPath%\doc\readme.txt
+Help=%InstallPath%\doc\help.chm
+
+[Shortcuts.RUS]
+AddIcoAPPRUS=%AppFolder%
+
+[AddIcoAPPRUS]
+;Readme RUS=%InstallPath%\doc\readme.rus.txt
+Help RUS=%InstallPath%\doc\help_ru.chm
+
+[RunApp]
+InstalService=%InstallPath%\install.bat,,%InstallPath%,3,"nnCron LITE Service is starting...",1

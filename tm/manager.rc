@@ -1,0 +1,14 @@
+icon16 ICON "rc\\nncron16x16-16.ico"
+icon32 ICON "rc\\nncron32x32-16.ico"
+
+//folder1 ICON "rc\folder1.ico"
+//folder2 ICON "rc\folder2.ico"
+//folder3 ICON "rc\folder2.ico"
+
+//hha BITMAP "rc\hha1.bmp"
+//folder1 BITMAP "rc\folder1.bmp"
+//folder2 BITMAP "rc\folder2.bmp"
+//folder3 BITMAP "rc\folder3.bmp"
+
+//jobs16 BITMAP "rc\jobs16.bmp"
+//jobs32 BITMAP "rc\jobs32-16.bmp"

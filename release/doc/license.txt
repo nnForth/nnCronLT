@@ -1,0 +1,14 @@
+The nnCron LITE. License for use and distribution.
+
+The nnCron LITE program is distributed as freeware.
+
+The nnCron LITE may be freely distributed provided the distribution package is not modified. No person or company may charge a fee for the distribution of nnCron LITE without permission from the copyright holder. The nnCron LITE may be bundled or distributed with any other package without permission of the copyright holder.
+
+nnCron LITE PROGRAM IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE THE PROGRAM AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+Installing and using nnCron LITE signifies acceptance of the terms and conditions of the license.
+
+If you do not agree with the terms of this license you must remove nnCron LITE files from your storage devices and cease to use the product.
+
+Thank you for using nnCron LITE.
+                                      Nicholas Nemtsev

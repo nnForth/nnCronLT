@@ -1,0 +1,1 @@
+@nnbackup -i . -o backup -n 9 -x *.exe,*.dll,*.out,*.zip

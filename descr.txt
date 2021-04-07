@@ -1,0 +1,53 @@
+nnCron LITE is a complete analog of UNIX cron.
+
+The nnCron LITE is a system command scheduler. The nnCron LITE
+program executes commands at specified dates and times. You can
+specify regularly sheduled commands as described in cron.tab. The
+nnCron LITE is a FREEWARE version of nnCron without scripting. The
+nnCron LITE is a perfect clone of UNIX system command scheduler for
+all Windows (9x/ME/NT/2k/XP). It understands only classic unix crontab
+format. nnCron LITE can work as service or as simple application.
+
+
+The nnCron LITE is a system command scheduler. The nnCron LITE
+program executes commands at specified dates and times. You can
+specify regularly sheduled commands as described in crontab. You can
+specify commands to be run once only using at. The cron command only
+examines crontab files and at command files when initialising or when
+a file changes. The nnCron LITE is a FREEWARE version of nnCron
+without scripting and it understands unix crontab format only. nnCron
+LITE can work as service or as simple application.
+
+
+Cron для Windows.
+
+nnCron LITE - это планировщик аналогичный cron'у из мира UNIX. nnCron LITE
+может работать в качестве службы и как обычное приложение. Все команды
+выполняются в том же контексте безопасности, что и сам nnCron.
+
+nnCron LITE - это облегченная версия nnCron без поддержки скриптового 
+языка.
+
+
+From: nemtsev@nncron.ru (Nicholas Nemtsev)
+Newsgroups: alt.comp.freeware
+Subject: ANN: nnCron LITE - perfect freeware clone of UNIX cron for Windows
+NNTP-Posting-Host: 195.133.147.214
+
+Hello All!
+
+I have published nnCron LITE 1.04
+Direct link: http://nemtsev.eserv.ru/progs/nncronlt.exe
+Program page: http://nemtsev.eserv.ru/
+
+The nnCron LITE is a system command scheduler.
+The nnCron LITE program executes commands at specified dates and times.
+You can specify regularly sheduled commands as described in cron.tab.
+
+The nnCron LITE is a FREEWARE version of nnCron without scripting.
+The nnCron LITE is a perfect clone of UNIX system command scheduler for all
+Windows (9x/ME/NT/2k/XP). It understands only classic unix crontab format.
+nnCron LITE can work as service or as simple application.
+
+Nicholas Nemtsev
+

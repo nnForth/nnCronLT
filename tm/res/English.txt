@@ -1,0 +1,14 @@
+1 cron manager
+
+30 &View
+31 &Large icons
+32 &Small icons
+33 L&ist
+34 &Details
+
+
+110 Name
+111 Time
+112 Command
+
+200 Ok

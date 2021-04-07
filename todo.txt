@@ -1,0 +1,4 @@
+JR> PS: Recommendation for next version:
+JR> o)    if an invalid command is passed e.g. cron -po then give an error
+JR> o)   allow the -l  command to allow a user see the list of commands that are
+JR> scheduled/ view the cron file
